@@ -6,7 +6,7 @@
     position: fixed; 
     left: 0; 
     top: 0; 
-    overflow-y: auto; /* Allows scrolling */
+    overflow-y: auto; 
 }
 
 .sidebar h3 {
@@ -51,7 +51,7 @@
     .sidebar {
         width: 100%;
         height: auto;
-        position: static; /* Adjust for mobile or add toggle */
+        position: static; 
     }
     .main-content {
         margin-left: 0;

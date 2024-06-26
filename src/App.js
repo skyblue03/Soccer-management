@@ -5,7 +5,6 @@ import './App.css';
 
 function App() {
   const [formation, setFormation] = useState('4-4-2');
-
   return (
     <div className="app">
       <Sidebar setFormation={setFormation} />
